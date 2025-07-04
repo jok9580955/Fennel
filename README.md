@@ -21,7 +21,7 @@ what the equivalent Fennel for a given piece of Lua would be.
 * The [reference](reference.md) describes all Fennel special forms
 * The [macro guide](macros.md) explains how to write macros
 * The [API listing](api.md) shows how to integrate Fennel into your codebase
-* The [style guide](style.md) gives tips on how to write clear and concise code
+* The [style guide](style.md) gives tips on how to write clear and concise codeHelpful info
 * The [Lua primer](lua-primer.md) gives a very brief intro to Lua with
   pointers to further details
 
